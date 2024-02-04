@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    background-image: url('/src/assets/Rectangle 1.png');
+    background-repeat: no-repeat;
+    opacity: 0.9;
+}
